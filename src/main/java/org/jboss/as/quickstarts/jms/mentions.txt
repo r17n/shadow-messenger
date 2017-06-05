@@ -1,0 +1,5 @@
+#JBoss is cool!
+Why don't you try #Ansible
+Red Hat releases new version for #OpenShift
+When is the next version of #RHEL coming?
+
